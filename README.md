@@ -1,6 +1,8 @@
 # AI4Code Kaggle Competition
 
-link: https://www.kaggle.com/competitions/AI4Code
+Competition link
+* https://www.kaggle.com/competitions/AI4Code.  
+  
 
 This notebook demonstrates a simple ensemble method for ranking problems. It is based on the two incredible notebooks:
 
