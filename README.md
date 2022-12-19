@@ -10,5 +10,3 @@ Stronger baseline with code cells by suicaokhoailang
 AI4Code Pairwise BertSmall inference by yuanzhezhou
 * https://www.kaggle.com/code/yuanzhezhou/ai4code-pairwise-bertsmall-inference
 
-
-All credits for the models themselves (both training and prediction) belogs to the original authors! I simply cloned their code and retrained my own version.
